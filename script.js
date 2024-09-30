@@ -1,1 +1,1 @@
-console.log(`Added New JS file`);
+console.log(`Added New JavaScript file`);
